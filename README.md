@@ -6,7 +6,9 @@
 
 ## शुभ विवाह
 
-This is the Hindi version of the [previous wedding invitation website](https://sonali.netlify.app/) created for my elder sister's wedding. 
+This is the Hindi version of the [previous wedding invitation website](https://sonali.netlify.app/), I created for my elder sister's wedding. 
+
+> **Download invitation card by [clicking here](https://github.com/vinitshahdeo/wedding-website/blob/main/invitation/Rudra-Shahdeo-Wedding.pdf?raw=true).**
 
 [![Wedding Website](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=Wedding-Invitation)](https://github.com/vinitshahdeo/Wedding-Invitation)
 
