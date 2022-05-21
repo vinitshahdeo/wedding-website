@@ -20,7 +20,7 @@ This is the Hindi version of the [previous wedding invitation website](https://s
 
 To reuse this, follow the steps:
 
-- *Replace the date in [script.js] to have a timer running for your big day!*
+- *Replace the date in `script.js` to have a timer running for your big day!*
 
 ```js
 // Set the date we're counting down to
