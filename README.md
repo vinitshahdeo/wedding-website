@@ -4,7 +4,10 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/98fba697-102b-4417-bb98-c625a3f22170/deploy-status)](https://app.netlify.com/sites/rudrashahdeo/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/wedding-website?logo=github)](https://github.com/vinitshahdeo/wedding-website/blob/main/LICENSE)
 
-## शुभ विवाह
+# शुभ विवाह 🎉
+
+💙 **।। मांगलिक परिणयोत्सव ।।** 💙 <br>
+🥁 🎊 _रुद्र शाहदेव 💍 शांति सिंह_ 🎊 🥁
 
 This is the Hindi version of the [previous wedding invitation website](https://sonali.netlify.app/), I created for my elder sister's wedding. 
 
