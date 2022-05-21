@@ -31,7 +31,7 @@ var countDownDate = new Date("June 8, 2022 00:00:00").getTime();
 
 ```html
 <div class="music">
-   <audio src="./assets/mp3/song.mp3" id="my_audio" loop="loop"></audio> 
+   <audio src="./assets/mp3/background.mp3" id="my_audio" loop="loop"></audio> 
 </div>
 ```
 
