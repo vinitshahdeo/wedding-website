@@ -580,3 +580,13 @@ a {
 	font-size: 32px;
 	letter-spacing: 0pt;
 }
+
+.inviter {
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 18px;
+	color: #674ea7;
+	margin: 16px;
+	text-align: center;
+}
