@@ -27,7 +27,7 @@ To reuse this, follow the steps:
 var countDownDate = new Date("June 8, 2022 00:00:00").getTime();
 ```
 
-- *If you wish to change the track which plays on click, edit the `src` in `index.html`*
+- *If you wish to change the track which plays on click, edit `index.html`*
 
 ```html
 <div class="music">
