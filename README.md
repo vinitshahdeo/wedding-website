@@ -41,3 +41,5 @@ Tag me to share your wedding story on Twitter([@Vinit_Shahdeo](https://twitter.c
 <br><br>
 
 [![Twitter Follow @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/vinitshahdeo)
