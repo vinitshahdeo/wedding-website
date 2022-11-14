@@ -35,7 +35,7 @@ var countDownDate = new Date("June 8, 2022 00:00:00").getTime();
 </div>
 ```
 
-### Do not forget to leave a star! :hugs:
+## Show your support by leaving a star! :hugs:
 
 [![Stargazers repo roster for @vinitshahdeo/wedding-website](https://reporoster.com/stars/vinitshahdeo/wedding-website)](https://github.com/vinitshahdeo/wedding-website/stargazers)
 
