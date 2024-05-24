@@ -2,7 +2,7 @@
 <p align="center"><a href="https://rudrashahdeo.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
 <h1 align="center"><a href="https://rudrashahdeo.netlify.app/">शुभ विवाह</a> :ring: <br> <br>June 8, 2022<br> <a href="https://rudrashahdeo.netlify.app/">rudrashahdeo.netlify.app</a></h1>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/98fba697-102b-4417-bb98-c625a3f22170/deploy-status)](https://app.netlify.com/sites/rudrashahdeo/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/wedding-website?logo=github)](https://github.com/vinitshahdeo/wedding-website/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/vinitshahdeo/wedding-website?label=Leave%20a%20Star&logo=github)](https://github.com/vinitshahdeo/wedding-website/stargazers)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/98fba697-102b-4417-bb98-c625a3f22170/deploy-status)](https://app.netlify.com/sites/rudrashahdeo/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/wedding-website?logo=github)](https://github.com/vinitshahdeo/wedding-website/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/vinitshahdeo/wedding-website?label=Leave%20a%20Star&logo=github)](https://github.com/vinitshahdeo/wedding-website/stargazers) [![GitHub Star - Vinit Shahdeo](https://img.shields.io/badge/GitHub_Star-%E2%AD%90_vinitshahdeo-E89B25?colorA=302237&logo=github)](https://stars.github.com/profiles/vinitshahdeo/) [![Peerlist](https://github-readme-badge.peerlist.io/api/vinitshahdeo)](https://peerlist.io/vinitshahdeo)
 
 # शुभ विवाह 🎉
 
